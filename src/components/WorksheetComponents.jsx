@@ -6,7 +6,7 @@ export const WorksheetHeader = ({ title, subtitle, scribble, name, setName, stud
       <div className="worksheet-meta">
         <div className="meta-left">
           <span style={{ fontWeight: 700 }}>Digital Culture · SEK Budapest</span>
-          <span>Mr. Tremmel · 2025/26</span>
+          <span>Mr. Mark · 2025/26</span>
         </div>
         <div className="meta-right">
           <div className="field-row">

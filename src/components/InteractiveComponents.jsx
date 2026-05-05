@@ -488,7 +488,7 @@ export const SmartQRSubmit = ({ worksheet, name, studentClass, answers, onReset 
         <div className="qr-result">
           <h3 style={{ marginTop: 0 }}>Screenshot this QR ✦</h3>
           <p style={{ marginTop: 0, fontSize: '0.9rem', color: '#41434a' }}>
-            Send the screenshot in <em>Google Classroom</em> or to Mr. Tremmel directly. Your name + class are baked in.
+            Send the screenshot in <em>Google Classroom</em> or to Mr. Mark directly. Your name + class are baked in.
           </p>
           <div style={{ display: 'flex', justifyContent: 'center', padding: 14 }}>
             <QRCodeSVG value={qrValue} size={240} level="M" includeMargin={false} />

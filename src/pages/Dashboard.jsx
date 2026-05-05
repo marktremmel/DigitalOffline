@@ -30,7 +30,7 @@ export default function Dashboard() {
       <div className="dashboard-container">
         <div className="dash-hero">
           <div>
-            <span className="eyebrow">Grades 5–8 · Mr. Tremmel · SEK Budapest</span>
+            <span className="eyebrow">Grades 5–8 · Mr. Mark · SEK Budapest</span>
             <h1 style={{ marginTop: 14 }}>
               Worksheets that bite back. <span className="scribble">in a good way</span>
             </h1>

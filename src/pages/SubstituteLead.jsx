@@ -68,7 +68,7 @@ export default function SubstituteLead() {
           <li>If the worksheet has a creative bit (sketching, writing a fake headline, etc.), encourage them to go further.</li>
         </ul>
 
-        <h2>5. What I (Mr. Tremmel) need from you at the end</h2>
+        <h2>5. What I (Mr. Mark) need from you at the end</h2>
         <ul>
           <li>Paper: leave the stack on my desk.</li>
           <li>Devices: students sent me their QR screenshots — nothing for you to collect.</li>
